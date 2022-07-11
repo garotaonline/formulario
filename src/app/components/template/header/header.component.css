@@ -1,0 +1,9 @@
+.header {
+    align-items: center;
+    background-color: black;
+    padding: 1rem;
+}
+
+.logo {
+    max-height: 3.5rem;
+}
